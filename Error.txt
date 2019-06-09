@@ -51,3 +51,4 @@ java.lang.NullPointerException
 	at jdk.compiler/com.sun.tools.javac.main.Main.compile(Main.java:170)
 	at jdk.compiler/com.sun.tools.javac.Main.compile(Main.java:57)
 	at jdk.compiler/com.sun.tools.javac.Main.main(Main.java:43)
+error: compilation failed
